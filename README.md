@@ -18,6 +18,3 @@ soon 🔜
   <img src="https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=blue"/>
 </div>
 <hr> -->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neldd&theme=radical&hide_border=true) ![Github Stats](https://github-readme-stats.vercel.app/api?username=neldd&show_icons=true&theme=radical&hide_border=true)
